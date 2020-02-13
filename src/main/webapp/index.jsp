@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hi, This is me - SaraBenShabbat</h1>
+	<h1>SaraBenShabbat - A DevOps course student</h1>
 	<h2>DEVOPS-ACADEMY - DEVOPS COURSE</h2>
 	<p>
 		It is now  
